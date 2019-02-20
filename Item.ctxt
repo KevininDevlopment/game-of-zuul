@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=newDescr
+comment1.target=Item(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDescr()
+numComments=3
